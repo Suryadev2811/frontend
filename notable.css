@@ -1,0 +1,18 @@
+.table {
+  
+    display: table;
+    border: 1px solid rgb(50, 48, 48);
+    margin: 20px auto;
+    text-align: center;
+}
+
+.row {
+  display: table-row;
+}
+
+.box{
+  display: table-cell;
+   border: 0.2px solid rgb(50, 48, 48);
+  padding: 12px 12px;
+  text-align: center;
+}
